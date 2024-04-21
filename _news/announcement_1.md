@@ -1,7 +1,8 @@
 ---
 layout: post
+title: Poetry Workshop
 date: 2024-04-19 21:59:00-0400
-inline: true
+inline: false
 related_posts: false
 ---
 

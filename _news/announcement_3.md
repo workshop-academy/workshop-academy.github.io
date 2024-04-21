@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Creative Writing Workshop
 date: 2024-03-20 05:59:00-0400
 inline: false 
 related_posts: false

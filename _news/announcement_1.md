@@ -3,6 +3,7 @@ layout: post
 title: Poetry Workshop
 date: 2024-04-19 21:59:00-0400
 inline: false
+giscus_comments: true
 related_posts: false
 ---
 

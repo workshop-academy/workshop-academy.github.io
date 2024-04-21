@@ -3,6 +3,7 @@ layout: post
 title: Coming events
 date: 2024-04-20 16:11:00-0400
 inline: false
+comments: true
 related_posts: false
 ---
 
@@ -18,3 +19,4 @@ Please come back and see what's comming :smile:
     <li>volunteering</li>
 </ul>
 
+Tell us what're you interested in!

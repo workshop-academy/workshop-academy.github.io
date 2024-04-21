@@ -1,5 +1,6 @@
 ---
 layout: about
+giscus_comments: true
 title: about
 permalink: /
 subtitle: <a href='#'>Here</a>. Hi There.

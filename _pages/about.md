@@ -20,16 +20,18 @@ social: false # includes social icons at the bottom of the page
 Hi, this is me. :)
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/writer1.png" class="img-fluid rounded z-depth-1" width=100 zoomable=true %}
+        {% include figure.html path="assets/img/writer1.png" class="img-fluid rounded z-depth-1" width=150 zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/workshop1.png" class="img-fluid rounded z-depth-1" width=100 zoomable=true %}
+        {% include figure.html path="assets/img/workshop1.png" class="img-fluid rounded z-depth-1" width=150 zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/workshop2.png" class="img-fluid rounded z-depth-1" width=100 zoomable=true %}
     </div>
 </div>
 
-## About Workshop Academy
-* Let's learn something!
-* Let's have some fun!
+## About me
+* I'm a pianist. :no_good:
+* I'm a dancer.
+* I'm a writer.
+* And I'm going to be a scientist, or maybe a doctor. :robot: :smile:

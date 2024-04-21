@@ -6,7 +6,7 @@ subtitle: <a href='#'>Here</a>. Hi There.
 
 profile:
   align: right
-  image: IMG_3192.jpg
+  image: ma_jolie.png
   image_circular: false # crops the image to make it circular
   address: >
     <p>Cupertino Library, CA</p>
@@ -31,7 +31,5 @@ Hi, this is me. :)
 </div>
 
 ## About me
-* I'm a pianist. :no_good:
-* I'm a dancer.
-* I'm a writer.
-* And I'm going to be a scientist, or maybe a doctor. :robot: :smile:
+* Let's learn something! :no_good:
+* Let's have some fun! :smile:

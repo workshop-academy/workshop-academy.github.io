@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Creative Writing Workshop
-date: 2024-03-20 05:59:00-0400
-inline: false 
-related_posts: false
+title:  Creative Writing Workshop
+date:   2024-01-01 21:51:16
+description: creative writing
+tags: formatting links
+categories: links
+thumbnail: assets/img/IMG_3192.jpg
 ---
-
 Workshops: Creative Writing :sparkles:
 
 <div class="row mt-3">

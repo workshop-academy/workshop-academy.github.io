@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Workshop Academy
+title: about
 permalink: /
 subtitle: <a href='#'>Here</a>. Hi There.
 

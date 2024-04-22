@@ -3,7 +3,7 @@ layout: about
 giscus_comments: true
 title: about
 permalink: /
-subtitle: <a href='#'></a>.
+subtitle: <a href='#'>workshop</a>. 
 
 profile:
   align: right

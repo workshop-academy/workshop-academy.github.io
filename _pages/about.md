@@ -19,7 +19,7 @@ social: false # includes social icons at the bottom of the page
 organizers: true
 ---
 
-Workshop Academy.
+Creative Writing Workshops.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -33,6 +33,7 @@ Workshop Academy.
     </div>
 </div>
 
-## About me
+## About our workshops
+* Creative writing.
 * Let's learn something! :no_good:
 * Let's have some fun! :smile:

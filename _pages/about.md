@@ -19,18 +19,20 @@ social: false # includes social icons at the bottom of the page
 organizers: true
 ---
 
-Creative Writing Workshops.
-
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/IMG_3192_cut.png" class="img-fluid rounded z-depth-1" width=200 zoomable=true %}
+        {% include figure.html path="assets/img/IMG_3192_cut.png" class="img-fluid rounded z-depth-1" width=150 zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/IMG_3191_cut.png" class="img-fluid rounded z-depth-1" width=150 zoomable=true %}
     </div>
 </div>
 
-## About our workshops
-* Reading
-* Writing
-* Learning
+<div>
+
+</div>
+
+### About our workshops
+* Put your ideas into words
+* Tell stories in a new way
+* Communicate in a constructive environment

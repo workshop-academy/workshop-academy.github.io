@@ -19,3 +19,7 @@ Workshops: Creative Writing :sparkles:
 <div class="caption">
     Creative Writing Workshop.
 </div>
+
+<a href="https://workshop-academy.github.io/assets/pdf/Creative Writing Workshop_workshop_academy.pdf">Download - Creative Writing</a>
+
+Tell us about your experience! :smile:

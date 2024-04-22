@@ -20,4 +20,6 @@ Workshops: Poetry. :sparkles:
     Poetry Workshop.
 </div>
 
+<a href="https://workshop-academy.github.io/assets/pdf/POEMS_workshop_academy.pdf">Download - Poems Workshop </a>
+
 Tell us about your experience! :smile:

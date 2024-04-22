@@ -3,11 +3,11 @@ layout: about
 giscus_comments: true
 title: about
 permalink: /
-subtitle: <a href='#'>Here</a>. Hi There.
+subtitle: <a href='#'></a>.
 
 profile:
   align: right
-  image: workshop12.png
+  image: library1.png
   image_circular: false # crops the image to make it circular
   address: >
     <p>Cupertino Library, CA</p>
@@ -23,17 +23,14 @@ Creative Writing Workshops.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/writer1.png" class="img-fluid rounded z-depth-1" width=150 zoomable=true %}
+        {% include figure.html path="assets/img/IMG_3192_cut.png" class="img-fluid rounded z-depth-1" width=200 zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/workshop1.png" class="img-fluid rounded z-depth-1" width=150 zoomable=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/workshop2.png" class="img-fluid rounded z-depth-1" width=100 zoomable=true %}
+        {% include figure.html path="assets/img/IMG_3191_cut.png" class="img-fluid rounded z-depth-1" width=150 zoomable=true %}
     </div>
 </div>
 
 ## About our workshops
-* Creative writing.
-* Let's learn something! :no_good:
-* Let's have some fun! :smile:
+* Reading
+* Writing
+* Learning

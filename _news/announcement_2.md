@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Coming events
+title: Coming events (work in progress)
 date: 2024-04-20 16:11:00-0400
 inline: false
 giscus_comments: true

@@ -19,11 +19,11 @@ social: false # includes social icons at the bottom of the page
 organizers: true
 ---
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row mt-3 justify-content-start">
+    <div class="col-3 mt-3 mt-md-0">
         {% include figure.html path="assets/img/IMG_3192_cut.png" class="img-fluid rounded float-left z-depth-1" width=120 zoomable=true %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-3 mt-3 mt-md-0">
         {% include figure.html path="assets/img/IMG_3191_cut.png" class="img-fluid rounded float-left z-depth-1" width=120 zoomable=true %}
     </div>
 </div>

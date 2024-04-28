@@ -140,8 +140,9 @@ related_blog_posts:
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out
 # the information below.
 giscus:
-  repo: workshop-academy/workshop-academy # <your-github-user-name>/<your-github-repo-name>
-  repo_id: MDEwOlJlcG9zaXRvcnk2MDAyNDM2NQ==
+  repo: workshop-academy/workshop-academy.github.io # <your-github-user-name>/<your-github-repo-name>
+  repo_id: 789604494 # https://api.github.com/repos/user/project
+  #repo_id: MDEwOlJlcG9zaXRvcnk2MDAyNDM2NQ==
   category: Comments             # name of the category under which discussions will be created
   category_id: DIC_kwDOA5PmLc4CTBt6
   mapping: title                 # identify discussions by post title

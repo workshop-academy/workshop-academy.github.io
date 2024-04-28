@@ -10,7 +10,7 @@ profile:
   image: library1.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Cupertino Library, CA</p>
+    <p>Workshop at Cupertino Library, CA</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts

@@ -32,11 +32,18 @@ organizers: true
 </div>
 
 ### About our workshops
-Unlock your creativity with our Writing Workshop Academy! We offer monthly workshops to elementary and middle school students that not only bring out the joys of writing but also spark imagination and build skills. Through learning the skills of storytelling, poetry, and other forms of writing, young minds are given the opportunity to discover their unique interests and build confidence.
+Unlock your creativity with our Writing Workshop Academy!
+We offer monthly workshops to elementary and middle school
+students that not only bring out the joys of writing but
+also spark imagination and build skills. Through learning
+the skills of storytelling, poetry, and other forms of writing,
+young minds are given the opportunity to discover their unique
+interests and build confidence.
 
 * Put your ideas into words
 * Tell stories in a new way
 * Communicate in a constructive environment
+ 
 <div class="row mt-3 mb-3 justify-content-start">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/IMG_3192_cut.png" class="img-fluid rounded z-depth-1" width=120 zoomable=true %}

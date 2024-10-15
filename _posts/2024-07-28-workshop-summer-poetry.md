@@ -6,7 +6,7 @@ description: creative writing
 tags: formatting links
 categories: links
 giscus_comments: true
-thumbnail: assets/img/IMG_3192.jpg
+thumbnail: assets/img/workshop4_summer_poetry.png
 ---
 Workshops: Summer Poetry :sparkles:
 
@@ -17,7 +17,7 @@ Workshops: Summer Poetry :sparkles:
 </div>
 
 <div class="caption">
-    Creative Writing Workshop.
+    Summer Poetry Workshop.
 </div>
 
 Tell us about your experience! :smile:

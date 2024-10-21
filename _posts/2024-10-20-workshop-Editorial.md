@@ -3,7 +3,7 @@ layout: post
 title:  All About Editorials
 date:   2024-10-20 18:00:16
 description: Poetry workshop
-tags: formatting links
+tags: workshops links
 categories: links
 giscus_comments: true
 thumbnail: assets/img/workshop6_editorials.png

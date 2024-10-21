@@ -3,7 +3,7 @@ layout: post
 title:  Creative Writing Workshop (part2)
 date:   2024-06-09 21:51:16
 description: creative writing
-tags: formatting links
+tags: workshops links
 categories: links
 giscus_comments: true
 thumbnail: assets/img/workshop3.png

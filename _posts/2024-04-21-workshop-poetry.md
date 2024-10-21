@@ -3,7 +3,7 @@ layout: post
 title:  Poetry Workshop
 date:   2024-04-21 21:51:16
 description: Poetry workshop
-tags: formatting links
+tags: workshops links
 categories: links
 giscus_comments: true
 thumbnail: assets/img/IMG_3191.jpg

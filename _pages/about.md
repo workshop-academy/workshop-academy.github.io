@@ -19,7 +19,7 @@ social: false # includes social icons at the bottom of the page
 organizers: true
 ---
 
-### About our workshops
+### Beyond the Page Workshops
 Unlock your creativity with our Writing Workshop<br>
 Academy! We offer monthly workshops to<br>
 elementary and middle school students that not<br>
@@ -29,6 +29,30 @@ learning the skills of storytelling, poetry,<br>
 and other forms of writing, young minds are<br>
 given the opportunity to discover their unique<br>
 interests and build confidence.<br>
+
+<div class="row mt-3 mb-3 justify-content-start">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/workshop_202502.png" class="img-fluid rounded z-depth-1" width=120 zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/workshop_202501.png" class="img-fluid rounded z-depth-1" width=120 zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/workshop_202412.png" class="img-fluid rounded z-depth-1" width=120 zoomable=true %}
+    </div>
+</div>
+
+<div class="row mt-3 mb-3 justify-content-start">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/workshop6_editorials.png" class="img-fluid rounded z-depth-1" width=120 zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/IMG_3192_cut.png" class="img-fluid rounded z-depth-1" width=120 zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/workshop4_summer_poetry.png" class="img-fluid rounded z-depth-1" width=120 zoomable=true %}
+    </div>
+</div>
 
 <div class="row mt-3 mb-3 justify-content-start">
     <div class="col-sm mt-3 mt-md-0">

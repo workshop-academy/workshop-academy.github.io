@@ -3,7 +3,7 @@ layout: post
 title:  Summer Poetry
 date:   2024-07-28 21:51:16
 description: creative writing
-tags: formatting links
+tags: workshops links
 categories: links
 giscus_comments: true
 thumbnail: assets/img/workshop4_summer_poetry.png

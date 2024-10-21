@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Creative Writing Workshop
-date:   2024-03-24 21:51:16
+title:  Creative Writing Workshop (part2)
+date:   2024-06-09 21:51:16
 description: creative writing
 tags: formatting links
 categories: links

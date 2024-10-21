@@ -1,6 +1,6 @@
 ---
 layout: post
-title: past events
+title: All About Editorials
 date: 2024-10-20 17:00:00-0400
 inline: false
 giscus_comments: true

@@ -264,9 +264,9 @@ jekyll-archives:
     tag: archive-tag
     category: archive-category
   permalinks:
-    year: 'workshop-academy.github.io//blog/:year/'
-    tag: 'workshop-academy.github.io//blog/tag/:name/'
-    category: 'workshop-academy.github.io//blog/category/:name/'
+    year: '/blog/:year/'
+    tag: '/blog/tag/:name/'
+    category: '/blog/category/:name/'
 
 display_tags: ['workshops', 'images', 'links', 'code'] # these tags will be displayed on the front page of your blog
 display_categories: ['blockquotes'] # these categories will be displayed on the front page of your blog

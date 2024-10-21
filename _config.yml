@@ -126,7 +126,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 blog_name: workshops # blog_name will be displayed in your blog page
 blog_nav_title: workshops # your blog must have a title for it to be displayed in the nav bar
 blog_description: workshop topics.
-permalink: workshop-academy.github.io/blog/:year/:title/
+permalink: /blog/:year/:title/
 
 # Pagination
 pagination:

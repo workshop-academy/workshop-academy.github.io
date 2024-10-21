@@ -2,7 +2,7 @@
 layout: post
 title: past events
 date: 2024-10-20 17:00:00-0400
-inline: true
+inline: false
 giscus_comments: true
 related_posts: false
 ---

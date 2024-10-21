@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  All About Editorials
-date:   2024-20-20 18:00:16
+date:   2024-10-20 18:00:16
 description: Poetry workshop
 tags: formatting links
 categories: links

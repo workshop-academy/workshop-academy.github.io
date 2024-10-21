@@ -5,6 +5,7 @@ date: 2024-04-27 16:11:00-0400
 inline: false
 giscus_comments: true
 related_posts: false
+hidden: true
 ---
 
 Workshops: Poetry. :sparkles:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Creative Writing Workshop (part2)
+title:  Creative Writing Workshop (Beyong the Page)
 date:   2025-01-10 17:00:16
 description: creative writing
 tags: workshops links

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: past events
+title: Creative Writing (Beyond the Page)
 date: 2025-02-20 18:30:00-0400
 inline: false
 giscus_comments: true

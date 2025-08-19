@@ -1,7 +1,7 @@
 ---
 layout: post
 title: History Writing Workshops
-date: 2024-07-28 13:00:00-0400
+date: 2025-06-01 13:00:00-0400
 inline: false 
 giscus_comments: true
 related_posts: false

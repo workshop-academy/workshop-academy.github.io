@@ -7,10 +7,18 @@ giscus_comments: true
 related_posts: false
 ---
 
+### Beyond the Page
 #### Creative Writing :sparkles:
-
 <ul>
     <li>Learn the elements of a story</li>
     <li>Analyze examples</li>
     <li>Write your own</li>
 </ul>
+
+<ul>
+    <li>workshop</li>
+    <li>practice</li>
+    <li>volunteering</li>
+</ul>
+
+Tell us what're you interested in!

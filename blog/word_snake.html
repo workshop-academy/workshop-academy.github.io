@@ -12,8 +12,9 @@
       font-family: "Arial", sans-serif;
       display: flex;
       flex-direction: column;
-      align-items: center;
+      align-items: stretch;
       min-height: 100vh;
+      overflow-y: auto;
     }
     .title {
       margin-top: 20px;
@@ -30,7 +31,31 @@
     #gluttonous-snake-container {
       width: 100%;
       display: flex;
-      justify-content: center;
+      justify-content: flex-start;
+    }
+    /* Additional responsive styling */
+    .game-wrapper {
+      display: flex;
+      align-items: flex-start;
+    }
+    .candidate-panel {
+      margin-left: 10px;
+    }
+    @media (max-width: 600px) {
+      .game-wrapper {
+        flex-direction: column;
+        align-items: stretch;
+      }
+      .candidate-panel {
+        margin-left: 0;
+        margin-top: 10px;
+        max-height: 150px;
+        overflow-y: auto;
+      }
+      .game-wrapper canvas {
+        max-height: 200px;
+        height: auto;
+      }
     }
   </style>
 </head>

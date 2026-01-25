@@ -195,6 +195,7 @@ class GluttonousSnakeGame {
     leftPanel.appendChild(panel);
     // Canvas and candidate panel side by side
     const gameWrapper = document.createElement("div");
+    gameWrapper.className = "game-wrapper";
     gameWrapper.style.display = "flex";
     gameWrapper.style.alignItems = "flex-start";
     // Canvas
@@ -203,9 +204,10 @@ class GluttonousSnakeGame {
     this.canvas.height = this.height;
     this.canvas.style.border = "1px solid #333";
     // Responsive size: fill container up to max width, maintain aspect ratio
-    this.canvas.style.width = "100%";
+    this.canvas.style.width = "50%";
     this.canvas.style.maxWidth = `${this.width}px`;
-    this.canvas.style.height = "auto";
+    this.canvas.style.height = "50%";
+    // this.canvas.style.height = "auto";
     this.ctx = this.canvas.getContext("2d");
     gameWrapper.appendChild(this.canvas);
     // Adjust canvas size based on container width
@@ -279,9 +281,10 @@ class GluttonousSnakeGame {
 
   // Adjust canvas size based on container width for responsiveness
   adjustCanvasSize() {
-    // Determine max size (up to 600px, but not larger than container width)
+    // Determine max size: use 600px for larger screens, 250px for small screens (<600px)
     const containerWidth = this.container.clientWidth;
-    const maxSize = Math.min(containerWidth, 600);
+    const maxCanvasSize = containerWidth < 500 ? 250 : 500;
+    const maxSize = Math.min(containerWidth, maxCanvasSize);
     // Compute new cell size to fit the grid within maxSize
     const newCellSize = Math.max(10, Math.floor(maxSize / Math.max(this.cols, this.rows)));
     this.cellSize = newCellSize;

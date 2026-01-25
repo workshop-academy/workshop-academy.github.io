@@ -202,8 +202,20 @@ class GluttonousSnakeGame {
     this.canvas.width = this.width;
     this.canvas.height = this.height;
     this.canvas.style.border = "1px solid #333";
+    // Responsive size: fill container up to max width, maintain aspect ratio
+    this.canvas.style.width = "100%";
+    this.canvas.style.maxWidth = `${this.width}px`;
+    this.canvas.style.height = "auto";
     this.ctx = this.canvas.getContext("2d");
     gameWrapper.appendChild(this.canvas);
+    // Adjust canvas size based on container width
+    this.adjustCanvasSize();
+    // Resize handling for responsive layout
+    window.addEventListener('resize', () => {
+      this.adjustCanvasSize();
+      this.placeCandidates();
+      this.draw();
+    });
     // Candidate panel (right of canvas)
     this.candidatePanel = document.createElement("div");
     this.candidatePanel.style.marginLeft = "10px";
@@ -263,6 +275,25 @@ class GluttonousSnakeGame {
     });
     this.startBtn.addEventListener("click", () => this.start());
     this.demoBtn.addEventListener("click", () => this.startDemo());
+  }
+
+  // Adjust canvas size based on container width for responsiveness
+  adjustCanvasSize() {
+    // Determine max size (up to 600px, but not larger than container width)
+    const containerWidth = this.container.clientWidth;
+    const maxSize = Math.min(containerWidth, 600);
+    // Compute new cell size to fit the grid within maxSize
+    const newCellSize = Math.max(10, Math.floor(maxSize / Math.max(this.cols, this.rows)));
+    this.cellSize = newCellSize;
+    this.width = this.cols * this.cellSize;
+    this.height = this.rows * this.cellSize;
+    // Update canvas pixel dimensions
+    this.canvas.width = this.width;
+    this.canvas.height = this.height;
+    // Ensure CSS makes canvas fill container and limit max width
+    this.canvas.style.width = "100%";
+    this.canvas.style.maxWidth = `${this.width}px`;
+    this.canvas.style.height = "auto";
   }
 
   start() {

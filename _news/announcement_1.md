@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Upcoming Beyond the Page Event
-date: 2025-02-01 16:00:00-0400
+date: 2026-02-01 16:00:00-0400
 inline: false
 giscus_comments: true
 related_posts: false

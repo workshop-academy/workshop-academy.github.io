@@ -19,6 +19,8 @@ Workshops: Creative Writing in AI Era by Beyond the Page:sparkles:
     Creative Writing in AI Era.
 </div>
 
+<hr>
+
 ## Creative Writing in AI era :sparkles:
 Time: Sunday Feb 1, 2025, 4:00-5:00pm
 

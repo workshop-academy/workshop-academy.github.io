@@ -15,6 +15,8 @@ It is like a growing word snake—each word stretches the story! Check the fun g
 
 [AI in Word Snake Game](https://workshop-academy.github.io/blog/word_snake.html)
 
+[AI in Word Snake Game v2 (a little smarter version)](https://workshop-academy.github.io/blog/word_snake.html)
+
 ### AI Rule:
 
 <ul>

@@ -214,6 +214,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+  - HOWTO.md
 keep_files:
   - CNAME
   - .nojekyll

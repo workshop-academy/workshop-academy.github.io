@@ -47,7 +47,7 @@ interests and build confidence.<br>
         {% include figure.html path="assets/img/workshop_202502.png" class="img-fluid rounded z-depth-1" width=120 zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/workshop_202608.jpg" class="img-fluid rounded z-depth-1" width=120 zoomable=true %}
+        {% include figure.html path="assets/img/workshop_202602.png" class="img-fluid rounded z-depth-1" width=120 zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/workshop_202609.jpg" class="img-fluid rounded z-depth-1" width=120 zoomable=true %}

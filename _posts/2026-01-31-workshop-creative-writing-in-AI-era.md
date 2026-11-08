@@ -3,7 +3,7 @@ layout: post
 title:  Creative Writing In AI Era (Beyong the Page)
 date:   2026-01-31 18:30:16
 description: creative writing in AI era
-tags: workshops links
+tags: workshops code
 categories: links
 giscus_comments: true
 thumbnail: assets/img/workshop_202602.png

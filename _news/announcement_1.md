@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Upcoming Beyond the Page Event
+title: Creative Writing in AI Era
 date: 2026-01-27 16:00:00-0400
 inline: false
 giscus_comments: true

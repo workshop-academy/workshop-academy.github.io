@@ -1,24 +1,17 @@
 ---
 layout: post
-title: Creative Writing
-date: 2024-06-09 13:00:00-0400
+title: How to Create Your Own Book
+date: 2026-11-07 13:00:00-0400
 inline: false 
 giscus_comments: true
 related_posts: false
 ---
+#### Beyond the Page :sparkles:
+#### Special Edition at 2026-11-15 Sun 5-6pm :sparkles:
 
-### Beyond the Page
-#### Creative Writing :sparkles:
-<ul>
-    <li>Learn the elements of a story</li>
-    <li>Analyze examples</li>
-    <li>Write your own</li>
-</ul>
+<div class="row mt-1 mb-1 justify-content-start">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/writing_202611.png" class="img-fluid rounded z-depth-1" width=300 zoomable=true %}
+    </div>
+</div>
 
-<ul>
-    <li>workshop</li>
-    <li>practice</li>
-    <li>volunteering</li>
-</ul>
-
-Tell us what're you interested in!

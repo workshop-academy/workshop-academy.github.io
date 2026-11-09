@@ -3,7 +3,7 @@ layout: post
 title:  Creative Writing Workshop
 date:   2024-03-24 21:51:16
 description: creative writing
-tags: workshops links
+tags: workshops
 categories: links
 giscus_comments: true
 thumbnail: assets/img/IMG_3192_cut.png
@@ -17,7 +17,7 @@ Workshops: Creative Writing :sparkles:
 </div>
 
 <div class="caption">
-    Creative Writing Workshop.
+    Creative Writing Workshop
 </div>
 
 Tell us about your experience! :smile:
